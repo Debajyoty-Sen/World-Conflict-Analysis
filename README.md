@@ -1,7 +1,7 @@
 # 🌍 Global Conflict Analysis Dashboard (1989–2023)
 
 
-![Dashboard](Assets\Dashboard.png)
+![Dashboard](Assets/Dashboard.png)
 
 ### 📖 Overview
 
@@ -96,7 +96,7 @@ LIMIT 10;
 
 ### Pie Chart → Deaths by Decade
 
-![Decade](Assets\Decade_Share.png)
+![Decade](Assets/Decade_Share.png)
 
 **1990s emerge as the deadliest decade.**
 
@@ -114,13 +114,13 @@ LIMIT 10;
 
 ### Map → Global Distribution of Conflicts
 
-![Map](Assets\Map.png)
+![Map](Assets/Map.png)
 
 ***Africa most concentrated, followed by Middle East.***
 
 ### Card → Most Peaceful Country
 
-![Peace](Assets\Peaceful.png)
+![Peace](Assets/Peaceful.png)
 
 ***Ireland (1 death recorded).***
 
